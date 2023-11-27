@@ -1,0 +1,8 @@
+#to list tags locally:
+git tag
+#Delete a Remote Branch:
+git push origin --delete v1.3
+#to delete tag locally:
+git tag -d v1.3
+#what is get rebase
+git rebase is a Git command used to integrate changes from one branch onto another by moving or combining commits. It rewrites the commit history by taking the commits of one branch and placing them on top of another branch.
